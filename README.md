@@ -1,0 +1,1 @@
+A small two-piece project to capture and display realsense camera feeds using Open3D.
