@@ -1,0 +1,1 @@
+A small project to capture and display realsense camera feeds using Open3D, then explore data for segmentation.
