@@ -1,3 +1,5 @@
+#Nearly all code from O3d example.
+
 import sys
 import json
 import open3d as o3d
